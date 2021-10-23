@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'chinglima',
-  youtube: 'UCqzRzB8lud2AYci0KQasL3g',
+  youtube: 'channel/UCqzRzB8lud2AYci0KQasL3g',
   instagram: 'viniciuslim_',
   facebook: 'vinicius.lima.503092',
   twitter: 'viniciuslim__'
